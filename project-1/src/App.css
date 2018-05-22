@@ -1,0 +1,29 @@
+.App{
+  text-align: center;
+  font-family: initial;
+  background-color: rgba(42, 165, 48, 0.521);
+  height: 59vh;
+  height: 100vh;;
+}
+.button{
+  background-color: aquamarine;
+} 
+ /* .App-header{
+  height: 100px;
+  border: black;
+  border-width: 10vh; 
+  color: antiquewhite;
+} */
+.App-comment{
+height: 100px;
+}
+
+.cityInput{
+  background-color: rgb(255, 246, 127);
+}
+.stateInput{
+  background-color: rgb(255, 246, 127);
+
+}
+
+
